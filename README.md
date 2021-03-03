@@ -1,2 +1,2 @@
 # sudoku_solver
-Automatically solve sudoku puzzles.
+Automatically solves sudoku puzzles using the Dancing Links algorithm. Requires JavaFX for the graphical interface.
